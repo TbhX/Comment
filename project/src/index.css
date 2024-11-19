@@ -18,4 +18,6 @@
   }
 
   .btn-secondary {
-    @apply bg-gray-200 text-gray-800 hover
+    @apply bg-gray-200 text-gray-800 hover:bg-gray-300; /* Complété ici */
+  }
+}
